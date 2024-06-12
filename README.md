@@ -26,6 +26,11 @@ Then I'm going to take the recordings, render them into text with photos and lay
 
 >  *Just... please don't put it off lest you or I die too (as so frequently happens). Cause then these memorial projects are just going to stack up infinitely and nothing will get done*
 
+## Contact
+
+- **GitHub:** [Don't Forget Bret](https://github.com/dontforgetbrett/)
+- **Email:** [wewontforgetbrett@protonmail.com](email:wewontforgetbrett@protonmail.com)
+
 
 ---
 
