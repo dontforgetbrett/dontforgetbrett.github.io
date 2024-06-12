@@ -29,4 +29,4 @@ Then I'm going to take the recordings, render them into text with photos and lay
 
 ---
 
-**Made with all🤍in 2024 by [Brent](https://brenton.holiday)** [SIC]
+**🤍 2024 [Don't Forget Brett](https://github.com/dontforgetbrett/)** 
