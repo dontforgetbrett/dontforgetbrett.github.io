@@ -1,6 +1,6 @@
 # Don't Forget Brett
 
-> *This will be a project for Brett Daly's surviving family. I can only image how much his mother and brother miss him. As well as all of the people that he knew before I met him. This project will slowly be wrangled together by the community of people that he touched in his final days. This project is for everyone mentioned, involved or who knew him and especially most of all, our dearly missed friend and cohort.*
+> *This will be a project for Brett Daly's surviving family. I can only image how much his mother and brothers miss him. As well as all of the people that he knew before I met him. This project will slowly be wrangled together by the community of people that he touched in his final days. This project is for everyone mentioned, involved or who knew him and especially most of all, our dearly missed friend and cohort.*
 
 ---
 
@@ -28,7 +28,7 @@ Then I'm going to take the recordings, render them into text with photos and lay
 
 ## Contact
 
-- **GitHub:** [Don't Forget Bret](https://github.com/dontforgetbrett/)
+- **GitHub:** [Don't Forget Brett](https://github.com/dontforgetbrett/dontforgetbrett.github.io)
 - **Email:** [wewontforgetbrett@protonmail.com](email:wewontforgetbrett@protonmail.com)
 
 
