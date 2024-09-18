@@ -1,6 +1,4 @@
-# Don't Forget Brett
-
-> *This will be a project for Brett Daly's surviving family. I can only image how much his mother and brothers miss him. As well as all of the people that he knew before I met him. This project will slowly be wrangled together by the community of people that he touched in his final days. This project is for everyone mentioned, involved or who knew him and especially most of all, our dearly missed friend and cohort.*
+> *This will be a project for Brett Daly's surviving family. I can only image how much his mother and brothers miss him, as well as all of the people that he knew before I met him. This project will slowly be wrangled together by the community of people that he knew in his final days. This project is for everyone mentioned or who knew him and especially most of all, our dearly missed friend and cohort.*
 
 ---
 
@@ -8,9 +6,9 @@
 
 People who knew Brett can prepare one or more short stories about him. Something they would like to share to his family. They can ask friends to ask friends to do the same. Anyone can upload photos (story or not). 
 
-You'll be provided several copies of a flier (for yourself and to circulate) with a description of the project, an email, phone number, public Google Drive or Dropbox folder. 
+take several copies of this page and make a flyer (for yourself and to circulate) with a description of the project, an email, phone number, public Google Drive or Dropbox folder. You can print more off by going to <https://dontforgetbrett.github.io> and hitting print.
 
-If you're into doing a story you can get in touch. When you're ready we can schedule a time to meet up with me to make an audio recording. We can do it as an interview or you can just narrate it or we can just talk about him and edit it later. However you want. It can be a loose idea or a solid immutable text.
+If you're into doing a story or know someone else who is, get in touch. When you're ready we can schedule a time to meet up with me to make an audio recording. We can do it as an interview or you can just narrate it or we can just talk about him and edit it later. However you want. It can be a loose idea or a solid immutable text.
 
 If you want you can provide photographs of yourself (or I can take some) to pair with your story. 
 
@@ -28,10 +26,15 @@ Then I'm going to take the recordings, render them into text with photos and lay
 
 ## Contact
 
-- **GitHub:** [Don't Forget Brett](https://github.com/dontforgetbrett/dontforgetbrett.github.io)
-- **Email:** [wewontforgetbrett@protonmail.com](email:wewontforgetbrett@protonmail.com)
+- **Main Contact:** [Brenton Holiday](https://brenton.holiday)
+- **Email:** [8rents@gmail.com](email8rents@gmail.com)
+- **Phone:** [(415) 340-0406](tel:4153400406)
+
+### Project Pages
+- **GitHub Repository:** [Don't Forget Brett](https://github.com/dontforgetbrett/dontforgetbrett.github.io)
+- **Flyer / GitHub.io Page:** [https://dontforgetbrett.github.io](https://dontforgetbrett.github.io)
 
 
 ---
 
-**🤍 2024 [Don't Forget Brett](https://github.com/dontforgetbrett/)** 
+**🤍 2024 [Don't Forget Brett](https://dontforgetbrett.github.io)** 
